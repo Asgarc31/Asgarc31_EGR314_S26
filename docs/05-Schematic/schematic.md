@@ -4,7 +4,7 @@ title: Module Schematic
 
 ## Overview
 
-This schematic is designed to support a camera and an IR sensor at the front of the robot to act as its eyes. This will help the user visually see what the device comes across during its exploration.
+This schematic is designed to support a camera and an IR sensor at the front of the robot to act as its eyes. This will help the user visually see what the device comes across during its exploration.-
 
 
 ![schematic](Garcia-Fall26_SchematicDesign.png){style width:"350" height:"300;"}
