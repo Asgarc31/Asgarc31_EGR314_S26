@@ -4,13 +4,13 @@ title: Module Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
+This schematic is designed to support a camera and an IR sensor at the front of the robot to act as its eyes. This will help the user visually see what the device comes across during its exploration.
 
 
-![schematic](Screenshot.png){style width:"350" height:"300;"}
-**Figure ##:** Showing a example schematic.
+![schematic](Garcia-Fall26_SchematicDesign.png){style width:"350" height:"300;"}
+**Figure 01:** PNG of the Camera/ IR module schematic.
 
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](ExampleSchematic.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
+The schematic as a PDF download is available [*here*](Garcia-Fall26_SchematicDesign.pdf), and the Zip folder of the project [*here*](Garcia-Fall26_SchematicDesign.zip).
